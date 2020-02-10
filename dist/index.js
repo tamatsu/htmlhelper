@@ -29,3 +29,4 @@ function input(attributes, value) {
     attributes.forEach(function (v) { return v(e); });
     return e;
 }
+//# sourceMappingURL=index.js.map
